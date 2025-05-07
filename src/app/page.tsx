@@ -322,6 +322,7 @@ export default function Home() {
                     <option value="google/gemini-2.0-flash-001">Google Gemini 2.0 Flash</option>
                     <option value="meta-llama/llama-3-70b-instruct">Meta Llama 3 70B Instruct</option>
                     <option value="mistralai/mixtral-8x22b-instruct">Mistral Mixtral 8x22B Instruct</option>
+                    <option value="mistralai/mistral-medium-3">Mistral: Mistral Medium 3</option>
                   </select>
                 </div>
               )}
